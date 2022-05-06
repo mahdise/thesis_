@@ -1,0 +1,16 @@
+,experiment_name,good,bad
+0,Only one box,118,119
+1,Two boxes,78,102
+2,Three boxes,91,98
+3,Environment clean,79,78
+4, Environment medium,53,47
+5, Environment Hard,53,47
+6, Box own colour,106,110
+7,Box different colour ,31,45
+8,Distance <50cm,135,141
+9, Distance >50cm,127,136
+10, Small size box,93,93
+11,Medium size box,56,48
+12, Large size box,77,76
+13,Bright ambient lighting,81,83
+14,No ambient lighting,140,142

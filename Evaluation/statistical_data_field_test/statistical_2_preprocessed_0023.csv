@@ -1,0 +1,15 @@
+,rotate_angle,box_detect_confidence_top_cam,box_detect_confidence_side_cam,arrow_position_encode,arrow_direction_encode,angle_type_encode,parameter
+0,0.0,0.0,0.0,0.0,0.0,0.0,count
+1,,,,,,,mean
+2,,,,,,,std
+3,,,,,,,min
+4,,,,,,,25%
+5,,,,,,,50%
+6,,,,,,,75%
+7,,,,,,,max
+8,,,,,,1.0,pricission
+9,,,,0.0,0.0,1.0,recall
+10,10.011531812403597,32.434013386147726,14.332114563081525,,,,rmse
+11,100.23076923076923,1051.9652243328098,205.40950784929356,,,,mse
+12,7.760456597665902,32.18359497645212,14.142182103610676,,,,mape_
+13,,,,0.0,0.0,1.0,accuracy
